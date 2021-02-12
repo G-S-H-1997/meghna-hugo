@@ -105,7 +105,8 @@ author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
-post_share = true
+post_share = false
+social = []
 [params.cookies]
 enable = false
 expire_days = 2
@@ -142,12 +143,3 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
 preloader = "images/logo.png"
-[[params.social]]
-icon = "fab fa-patreon"
-link = ""
-[[params.social]]
-icon = "fab fa-instagram"
-link = "#"
-[[params.social]]
-icon = "fab fa-youtube"
-link = "#"
